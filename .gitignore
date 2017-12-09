@@ -1,0 +1,30 @@
+Dockerfile.bak2
+Dockerfile.local
+env.sh
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Scrapy stuff:
+.scrapy
+
+# celery beat schedule file
+celerybeat-schedule
+
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+
+# Spyder project settings
+.spyderproject
+.spyproject
